@@ -1,0 +1,20 @@
+.myList {
+  text-decoration: line-through;
+  color: green;
+}
+
+.myButton {
+  background-color: white;
+  color: blue;
+  margin-left: 10px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+button {
+  color: blue;
+  background-color: white;
+}
